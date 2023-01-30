@@ -5,5 +5,11 @@ No header just normal text.
   
 Tyring md.
 
-Adding image.  
+# Adding image.  
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Adding a code example
+```
+$ git init
+Initialized empty Git repository in /Users/miko-dai/Projects/recipe-repository/.git/
+```
