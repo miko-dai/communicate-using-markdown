@@ -13,3 +13,8 @@ Tyring md.
 $ git init
 Initialized empty Git repository in /Users/miko-dai/Projects/recipe-repository/.git/
 ```
+
+# Add a task list
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
