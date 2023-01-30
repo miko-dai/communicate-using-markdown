@@ -4,3 +4,6 @@ No header just normal text.
 ### This is a h3 header
   
 Tyring md.
+
+Adding image.  
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
