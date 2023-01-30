@@ -18,3 +18,5 @@ Initialized empty Git repository in /Users/miko-dai/Projects/recipe-repository/.
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
+
+Uhh there was an error so let's try the web-browser version of VS code.
